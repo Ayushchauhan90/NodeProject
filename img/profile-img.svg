@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3cb18d;
+      }
+
+      .cls-2 {
+        fill: #220d44;
+      }
+    </style>
+  </defs>
+  <g id="Group_46028" data-name="Group 46028" transform="translate(-264 -858)">
+    <circle id="Ellipse_583" data-name="Ellipse 583" class="cls-1" cx="8" cy="8" r="8" transform="translate(264 858)"/>
+    <path id="person_FILL1_wght400_GRAD0_opsz48" class="cls-2" d="M11.393,12.131a1.525,1.525,0,1,1,1.145-.445A1.55,1.55,0,0,1,11.393,12.131ZM8,15.534v-1a1.167,1.167,0,0,1,.2-.689,1.293,1.293,0,0,1,.52-.435,7.97,7.97,0,0,1,1.362-.477,5.508,5.508,0,0,1,1.309-.159,5.276,5.276,0,0,1,1.3.164,9.032,9.032,0,0,1,1.357.472,1.278,1.278,0,0,1,.53.435,1.167,1.167,0,0,1,.2.689v1Z" transform="translate(260.607 853.758)"/>
+  </g>
+</svg>

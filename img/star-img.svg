@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="7" viewBox="0 0 8 7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #220d44;
+      }
+    </style>
+  </defs>
+  <path id="Polygon_6" data-name="Polygon 6" class="cls-1" d="M4,0l.944,2.674H8L5.528,4.326,6.472,7,4,5.348,1.528,7l.944-2.674L0,2.674H3.056Z"/>
+</svg>

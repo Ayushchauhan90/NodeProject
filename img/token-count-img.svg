@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="19.023" viewBox="0 0 16 19.023">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #220d44;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdd717"/>
+      <stop offset="1" stop-color="#faa910"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_46027" data-name="Group 46027" transform="translate(-104 -854.977)">
+    <circle id="Ellipse_582" data-name="Ellipse 582" class="cls-1" cx="8" cy="8" r="8" transform="translate(104 858)"/>
+    <path id="military_tech_FILL1_wght400_GRAD0_opsz48" class="cls-2" d="M14,4h8.011v6.669a1.593,1.593,0,0,1-.23.841,1.813,1.813,0,0,1-.631.621l-2.824,1.642.521,1.943h2.684l-2.183,1.622.841,2.684L18.006,18.4l-2.2,1.622.841-2.684-2.183-1.622h2.7l.5-1.943-2.8-1.642a1.813,1.813,0,0,1-.631-.621,1.593,1.593,0,0,1-.23-.841Zm3.485,1.2v7.01l.6.32.6-.32V5.2Z" transform="translate(93.994 850.977)"/>
+  </g>
+</svg>
